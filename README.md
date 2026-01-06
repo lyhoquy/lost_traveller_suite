@@ -3,6 +3,7 @@
 ## 🌌 Overview
 **Lost Traveller** is a minimalist, sci-fi inspired Rainmeter suite designed with a **"Retro Terminal"** aesthetic. It uses the *VCR OSD Mono* typeface and a high-contrast color palette to evoke the feeling of a lonely wanderer’s ship console. The suite provides essential system information, time tracking, and atmospheric elements through a clean, low-fi interface.
 
+![Lost Traveller Demo](https://github.com/lyhoquy/lost_traveller_suite/blob/main/Screenshot%202026-01-04%20210759.png)
 ---
 
 ## 🛠 Core Components
